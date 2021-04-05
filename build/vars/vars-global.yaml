@@ -3,4 +3,4 @@ variables:
   vmImageName: "ubuntu-latest"
   resourceGroup: "td-az-resource-group"
   location: "westus"
-  WebApp: "td-nestedyamltemplates"
+  WebApp: "13-nestedyamltemplates"
